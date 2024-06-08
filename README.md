@@ -42,8 +42,8 @@ This project explores various data exploration, preprocessing and feature engine
 
 ### **Contents**
 - **`__pycache__/`**
-- **`Group_43_notebook_binary.ipynb`**
-- **`Group_43_notebook_multiclass.ipynb`**
+- **`Hospital_Readmissions_binary.ipynb`**
+- **`Hospital_Readmissions_multiclass.ipynb`**
 - **`train.csv`**
 - **`utils.py`**
 
