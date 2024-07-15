@@ -7,12 +7,21 @@ This repository contains several projects showcasing different aspects of machin
 
 ## **Folder Structure**
 
-1. [Image Classification Project](https://github.com/diogo-pires-github/diogo-pires/tree/main/Image%20Classification%20Project)
-2. [Cervical Cancer Project](https://github.com/diogo-pires-github/diogo-pires/tree/main/Simple%20CNN%20Model)
+1. [Cervical Cancer Project](https://github.com/diogo-pires-github/diogo-pires/tree/main/Simple%20CNN%20Model)
+2. [Image Classification Project](https://github.com/diogo-pires-github/diogo-pires/tree/main/Image%20Classification%20Project)
 3. [Supervised Learning Project](https://github.com/diogo-pires-github/diogo-pires/tree/main/Supervised%20Learning%20Project)
 4. [Unsupervised Learning Project](https://github.com/diogo-pires-github/diogo-pires/tree/main/Unsupervised%20Learning%20Project)
 
-## **1 - Image Classification Project**
+## **1 - Cervical Cancer Project**
+
+### **Overview**
+This was my first deep learning project, featuring a very simple Convolutional Neural Network (CNN) implemented from scratch. It's designed to provide a fundamental understanding of how to build a CNN using frameworks like TensorFlow and Keras.
+
+### **Contents**
+- **`Cervical_Cancer_Project.ipynb`**
+- **`README.md`**
+
+## **2 - Image Classification Project**
 
 ### **Overview**
 This project demonstrates image classification using various CNN models. The goal is to classify images into predefined categories.
@@ -24,15 +33,6 @@ This project demonstrates image classification using various CNN models. The goa
 - **`5 - ResNet50V2.ipynb`**
 - **`6 - Metrics Evaluation.ipynb`**
 - **`fitzpatrick17k.csv`**
-- **`README.md`**
-
-## **2 - Cervical Cancer Project**
-
-### **Overview**
-This was my first deep learning project, featuring a very simple Convolutional Neural Network (CNN) implemented from scratch. It's designed to provide a fundamental understanding of how to build a CNN using frameworks like TensorFlow and Keras.
-
-### **Contents**
-- **`Cervical_Cancer_Project.ipynb`**
 - **`README.md`**
 
 ## **3 - Supervised Learning Project**
