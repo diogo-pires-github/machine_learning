@@ -8,11 +8,11 @@ This repository contains several projects showcasing different aspects of machin
 ## **Folder Structure**
 
 1. [Image Classification Project](https://github.com/diogo-pires-github/diogo-pires/tree/main/Image%20Classification%20Project)
-2. [Simple CNN Model](https://github.com/diogo-pires-github/diogo-pires/tree/main/Simple%20CNN%20Model)
+2. [Cervical Cancer Project](https://github.com/diogo-pires-github/diogo-pires/tree/main/Simple%20CNN%20Model)
 3. [Supervised Learning Project](https://github.com/diogo-pires-github/diogo-pires/tree/main/Supervised%20Learning%20Project)
 4. [Unsupervised Learning Project](https://github.com/diogo-pires-github/diogo-pires/tree/main/Unsupervised%20Learning%20Project)
 
-## **Image Classification Project**
+## **1 - Image Classification Project**
 
 ### **Overview**
 This project demonstrates image classification using various CNN models. The goal is to classify images into predefined categories.
@@ -26,7 +26,7 @@ This project demonstrates image classification using various CNN models. The goa
 - **`fitzpatrick17k.csv`**
 - **`README.md`**
 
-## **Simple CNN Model**
+## **2 - Cervical Cancer Project**
 
 ### **Overview**
 This was my first deep learning project, featuring a very simple Convolutional Neural Network (CNN) implemented from scratch. It's designed to provide a fundamental understanding of how to build a CNN using frameworks like TensorFlow and Keras.
@@ -35,7 +35,7 @@ This was my first deep learning project, featuring a very simple Convolutional N
 - **`Cytology_Project.ipynb`**
 - **`README.md`**
 
-## **Supervised Learning Project**
+## **3 - Supervised Learning Project**
 
 ### **Overview**
 This project explores various data exploration, preprocessing and feature engineering techniques to solve both a binary and a multi-class classifcation using Support Vector Machines (SVM).
@@ -47,7 +47,7 @@ This project explores various data exploration, preprocessing and feature engine
 - **`train.csv`**
 - **`utils.py`**
 
-## **Unsupervised Learning Project**
+## **4 - Unsupervised Learning Project**
 
 ### **Overview**
 This project focuses on unsupervised learning techniques like clustering and dimensionality reduction. Methods such as Hierarchical clustering, K-Means, PCA, and t-SNE are demonstrated.
