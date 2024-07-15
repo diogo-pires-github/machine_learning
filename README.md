@@ -32,7 +32,7 @@ This project demonstrates image classification using various CNN models. The goa
 This was my first deep learning project, featuring a very simple Convolutional Neural Network (CNN) implemented from scratch. It's designed to provide a fundamental understanding of how to build a CNN using frameworks like TensorFlow and Keras.
 
 ### **Contents**
-- **`Cytology_Project.ipynb`**
+- **`Cervical_Cancer_Project.ipynb`**
 - **`README.md`**
 
 ## **3 - Supervised Learning Project**
